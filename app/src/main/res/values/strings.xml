@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Linkitos</string>
+    <string name="my_links">Link Shortener</string>
+    <string name="link_to_shorten">Write a link to shorten</string>
+    <string name="send_link_button">Send link button</string>
+    <string name="error_dialog_title">There was an error</string>
+    <string name="invalid_link">The link \"%s\" is invalid, please fix it and try again.</string>
+    <string name="recently_shortened_links">Recently shortened links</string>
+    <string name="most_recent_link">Most recent link</string>
+    <string name="most_recent_link_empty_text">Your most recent link will show up here!</string>
+    <string name="click_to_open_long_click_to_copy">Click link to open, long click to copy</string>
+    <string name="link_list_empty_view">Your shortened links will show here!</string>
+    <string name="link_alias">Alias: %s</string>
+</resources>
